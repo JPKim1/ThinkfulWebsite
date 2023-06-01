@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Joshua P. Kim</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+  <header>
+
+    <h1 id="home">Joshua P. Kim</h1>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#poem">Poem</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+  <main>
+    <h2 id="poem">Poem</h2>
+    <article class="nature">
+      <h3 class="pink">All Melody</h3>
+      <div class="white-text"?
+        <p>Eyes closed,</p>
+        <p>the harmony consists of two or three tones.</p>
+        <p>Echos of a motorcar from opposite ends,</p>
+	      <p>a constant timbre, unexpectedly.</p>
+        <p>Bass tones like a balloon inflating,</p> 
+        <p>a balloon without punctures,</p>
+	      <p>and limitless capacity.</p>
+        <p>Rare is the third tone,</p> 
+	      <p>the deepest and most resonant.</p>
+        <p>A plane that reverberates like a giant propeller,</p>
+	      <p>but a plane without propellers.</p>
+        <p>There is no unison, each note</p>
+	      <p>a different movement</p>
+	      <p>but of the same sonata.</p> 
+      </div>
+    </article>
+
+    <h2 id="about">About</h2>
+    <article class="pug">
+      <h3 class="pink">Background</h3>
+      <div class="white-text">
+        <p>Astrology Sign: Capricorn</p>
+        <p>Originally from: California</p>
+        <p>Currently residing: Colorado</p>
+        <p>Current employment: Payroll</p>
+        <p>Hobbies: Writing & exercising</p>
+        <p>Interests: short stories, screenplays, teleplays
+        <p>Education: bachelor's degree
+        <p>College attended: UCI (Irvine, CA)</p>
+        <p>Graduated year: 2020</p>
+        <p>BA, Psychology & Social Behavior</p>
+        <p>Preferred languages: HTML, CSS, JavaScript</p>
+        Current programs: thinkful, codecademy
+        <p>GitHub Profile: https://github.com/JPKim1</p>
+        <p>LinkedIn: https://www.linkedin.com/in/joshua-kim-baa4a021a/
+        <p>Gallup top 5 strengths: Analytical, Deliberative, Harmony, Consistency, Intellection</p>
+        <p>Hogwarts house: typical test results in Gryffindor, although Slytherin is preferred. I find myself making friends with Hufflepuffs more often than not</p>
+      </div>
+    </article>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+
+<footer>
+  <h2 id="contact">Contact</h2>
+  <div class="flower-background">
+    <p>Email: Joshua.Kim@live.com</p>
+    <p>Mobile: (909) 323-9951</p>
+    <p class="back-top"><a href="#home">Back to top</a></p>
+    <p>Updated: June 1, 2023</p>
+  </div>
+  <br>
+</footer>
+
+</html>
